@@ -19,7 +19,7 @@ body {
   border:5px solid   rgba(78, 78, 121, 0.7);
     margin-left:300px ;
 margin-right: 300px;  
-  background-color: rgba(78, 78, 121, 0.7) ;
+  background-color: rgba(6, 6, 8, 0.466) ;
   margin-top: 50px;
 }
 #survey-form{
@@ -42,4 +42,20 @@ margin-right: 300px;
   width:600px;
   height:25px;
   border-radius:10px solid white;
+}
+#dropdown{
+  width:600px;
+  height:25px;
+  border-radius:10px solid white;
+}
+label{
+  color: white;
+  font-size: large;
+  line-height: 40px;
+}
+#submit{
+  background-color: rgba(63, 241, 63, 0.445);
+  color: white;
+  width: 600px;
+  height: 50px;
 }
